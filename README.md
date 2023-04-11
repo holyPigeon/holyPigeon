@@ -1,7 +1,7 @@
 <div align="center">
 
   ### <p>Slowly and Steady 🦥</p>
-  <p>interested in Java Spring</p>
+  <p>interested in Vue.js & Spring</p>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=awfjol2008)](https://solved.ac/awfjol2008)
