@@ -2,6 +2,8 @@
 
   ### <p>Slowly and Steady 🦥</p>
   <p>interested in Vue.js & Spring</p>
+  <p><img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></p>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=awfjol2008)](https://solved.ac/awfjol2008)
