@@ -1,6 +1,6 @@
 <div align="center">
 
-  ### <p>Slowly and Steady 🦥</p>
+  ### <p>Slow and Steady 🦥</p>
   <p>interested in Vue.js & Spring</p>
   
   <p><img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
