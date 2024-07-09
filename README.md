@@ -1,7 +1,7 @@
 <div align="center">
 
   ### <p>🦥 Slow and Steady 🦥</p>
-  <p>interested in Clean Code﹒Architecture & Spring</p>
+  <p>interested in Clean Code﹒Architecture & Spring Framework</p>
   
   <p>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
