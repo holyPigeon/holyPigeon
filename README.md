@@ -1,31 +1,26 @@
-<div align="center">
-
-  ### <p>🦥 Slow and Steady 🦥</p>
-  <p>interested in Clean Code, Architecture, and Spring Framework</p>
+<p align="center">
+  <a target="_blank" href="https://velog.io/@awfjol2008" target="_blank">
+    <img src="https://img.shields.io/badge/Tech blog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Tech blog"/>
+  </a>
   
-  <p>
-    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img src="https://img.shields.io/badge/spring-4FC08D?style=for-the-badge&logo=spring&logoColor=white">
-  </p>
+  <a target="_blank" href="mailto:awfjol2008@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FholyPigeon%2Fhit-counter&count_bg=%231EB854&title_bg=%232C3E50&icon=github.svg&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com)
+---
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=awfjol2008)](https://solved.ac/awfjol2008)
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=holypigeon&show_icons=true&theme=react" alt="holyPigeon's GitHub stats" />
+    </td>
+    <td>
+  <a href="https://solved.ac/awfjol2008/">
+    <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=awfjol2008" alt="Solved.ac Profile" />
+  </a>
+    </td>
+  </tr>
+</table>
 
-  </div>
-
-<!--
-**holyPigeon/holyPigeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
