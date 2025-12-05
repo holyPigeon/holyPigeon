@@ -3,7 +3,7 @@
 
 
 
-## 👨‍💻 Profile
+## 👨‍💻 About Me
 
 <div>
   <a target="_blank" href="https://velog.io/@awfjol2008">
