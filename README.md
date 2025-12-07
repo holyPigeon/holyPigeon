@@ -5,7 +5,7 @@
 ## 🚀 Tech Stack 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis,aws,grafana,prometheus,docker,)](https://skillicons.dev)  
 
-
+<br>
 
 ## 👨‍💻 About Me
 
@@ -23,6 +23,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
+<br>
 <br>
 <br>
 <br>
