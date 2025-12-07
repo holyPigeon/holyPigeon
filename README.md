@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=2fc276&height=200&section=header&text=I'm%20Jae%20woo&fontColor=FFFFFF&animation=fadeIn&fontSize=90&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=2fc276&height=200&section=header&text=I'm%20Jae%20woo&fontColor=FFFFFF&animation=fadeIn&fontSize=90&fontAlignY=52)
 
 ## 🚀 Tech Stack 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis,aws,grafana,prometheus,docker,)](https://skillicons.dev)  
