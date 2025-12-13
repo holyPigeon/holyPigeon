@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=2fc276&height=150&section=header&text=I'm%20Jae%20woo&fontColor=FFFFFF&animation=fadeIn&fontSize=90&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=2fc276&height=150&section=header&text=I'm%20Jae%20woo&fontColor=FFFFFF&animation=fadeIn&fontSize=90&fontAlignY=50&desc=Backend%20Developer&descSize=20&descAlign=67&descAlignY=85)
 
 ## 🚀 Tech Stack 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis,aws,grafana,prometheus,docker,)](https://skillicons.dev)  
