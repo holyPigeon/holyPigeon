@@ -20,6 +20,11 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
+## 📚 Tech Blog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=awfjol2008)](https://velog.io/@awfjol2008)
+
+
+
 <br>
 <br>
 
