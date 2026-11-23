@@ -19,7 +19,7 @@
   </a> -->
 
 ## 📚 Tech Blog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=awfjol2008)](https://velog.io/@awfjol2008)
+[![velog](https://velo-card.profilecard.workers.dev/api?name=awfjol2008&layout=thumbnail&theme=github_dark)](https://velog.io/@awfjol2008)
 
 <br>
 <br>
